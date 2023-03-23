@@ -9,20 +9,20 @@ This is a PHP assignment to create a RESTful API for a clothing company with 3 e
 5. Run the Project
 
 ### Endpoints
-http://localhost/clothing/api/products/read.php
+> http://localhost/clothing/api/products/read.php
 To read aall products from the database
 
-http://localhost/clothing/api/products/read_single.php
+> http://localhost/clothing/api/products/read_single.php?product_id=7
 To read a single products from the database using the ID column
 
-http://localhost/clothing/api/customers/read.php
+> http://localhost/clothing/api/customers/read.php
 To read all customers from the database
 
-http://localhost/clothing/api/customers/read_single.php
+> http://localhost/clothing/api/customers/read_single.php?customer_id=2
 To read a single customers from the database using the ID column
 
-http://localhost/clothing/api/orders/read.php
+> http://localhost/clothing/api/orders/read.php
 To read all orders from the database
 
-http://localhost/clothing/api/orders/read_single.php
+> http://localhost/clothing/api/orders/read_single.php?order_id=2
 To read a sibgle order from the database using the ID column
